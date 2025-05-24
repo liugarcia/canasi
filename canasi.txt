@@ -1,0 +1,80 @@
+#EXTINF:-1 tvg-id="RecordNacional.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Canais",Sony One Clássicos
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-2 tvg-id="RecordNacional.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d1ccb100fb163791ff314b91c0c3678f.webp" group-title="Canais",Sony One Shark Tank
+https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-3 tvg-id="RecordNacional.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a314b7e30030089dbb174ed79458610d.webp" group-title="Canais",Sony One Emoções
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-4 tvg-logo="https://static.wixstatic.com/media/b88112_a3df945fa30d433b88f1d3eb44983a96~mv2.png/v1/fit/w_2500,h_1330,al_c/b88112_a3df945fa30d433b88f1d3eb44983a96~mv2.png" group-title= "Canais", TV Max
+https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/chunklist_w1692112557.m3u8 
+
+
+#EXTINF:-5 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b0baf19518fb782525c37b40c2f5d9b5.webp" group-title= "Canais", RedeTV
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+
+
+#EXTINF:-6 tvg-id="RecordNacional.br" tvg-logo="https://imgur.com/HpyVVvg.png" group-title="Canais",Rede Brasil
+https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8
+
+
+#EXTINF:-7 tvg-id="RecordNacional.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ee32135a0ae4307048d3b24d0891738f.webp" group-title="Canais",Tela Viva 
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+
+
+#EXTINF:-8 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/37a7f2bbd24082bb8f947686020c3e82.webp" group-title= "Canais", All Sports 
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+
+#EXTINF:-9 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61VyTMEJkpL.png" group-title= "Canais", TV Cidade 
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/chunklist_w1773540286.m3u8 
+
+
+#EXTINF:-10 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b412af69bbba36276c16d7e3e44ba43d.webp" group-title= "Canais", Terê TV
+https://video02.logicahost.com.br/canal11teretv/canal11teretv/playlist.m3u8
+
+
+#EXTINF:-11 tvg-id="TastemadeBrazil.br" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png" group-title="Canais",Tastemade 
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-12 tvg-id="Nick Classico" tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" group-title="Canais",Nick Classico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f12151794c1800007a8ae63&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=730&terminate=false&userId=
+
+
+#EXTINF:-13 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/cyfu3qP.png" group-title="Canais",Retrô Cartoon 
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+
+#EXTINF:-13 tvg-id="RedeMassa.br" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Canais",SBT
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+
+
+#EXTINF:-14 tvg-id="TVEBahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/512px-TVE_Bahia_logo.svg.png" group-title="Canais",TVE
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+
+#EXTINF:-15 tvg-id="" tvg-logo="" group-title="Canais",TELE CINE ACTION 
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+
+#EXTINF:-16 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="canais",CNN
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-17 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_istv_png_shjUMVl.png" group-title="canais",ISTV
+https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
+
+#EXTINF:-18 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf711b0c34fdda729cf379ba14f8cffb.webp" group-title="canais",FILMES TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+
+#EXTINF:-19 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="canais",CINE PIX
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+
+
+#EXTINF:-20 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e8123ee272391a835c94c4f45b142983.webp" group-title="canais",UTV
+https://utvsite.acessaradios.com.br/tvdescalvado/smil:tvdescalvado.smil/playlist.m3u8
+
+#EXTINF:-21 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf711b0c34fdda729cf379ba14f8cffb.webp" group-title="canais",Move Sphere
+https://stream.ads.ottera.tv/playlist.m3u8
+
+
