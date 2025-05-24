@@ -17,7 +17,7 @@ https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
 
 #EXTINF:-6 tvg-id="RecordNacional.br" tvg-logo="https://imgur.com/HpyVVvg.png" group-title="Canais",Rede Brasil
-https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 
 
 #EXTINF:-7 tvg-id="RecordNacional.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ee32135a0ae4307048d3b24d0891738f.webp" group-title="Canais",Tela Viva 
@@ -29,7 +29,7 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 
 #EXTINF:-9 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61VyTMEJkpL.png" group-title= "Canais", TV Cidade 
-https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/chunklist_w1773540286.m3u8 
+https://video09.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8 
 
 
 #EXTINF:-10 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b412af69bbba36276c16d7e3e44ba43d.webp" group-title= "Canais", Terê TV
@@ -74,7 +74,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 #EXTINF:-20 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e8123ee272391a835c94c4f45b142983.webp" group-title="canais",UTV
 https://utvsite.acessaradios.com.br/tvdescalvado/smil:tvdescalvado.smil/playlist.m3u8
 
-#EXTINF:-21 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf711b0c34fdda729cf379ba14f8cffb.webp" group-title="canais",Move Sphere
-https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-21 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="canais",Clássicos do cinema
+https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
 
 
