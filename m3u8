@@ -67,8 +67,8 @@ https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 #EXTINF:-18 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf711b0c34fdda729cf379ba14f8cffb.webp" group-title="canais",FILMES TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 
-#EXTINF:-19 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="canais",CINE PIX
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+#EXTINF:-19 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp" group-title="canais",Sony Cinema
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-20 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e8123ee272391a835c94c4f45b142983.webp" group-title="canais",UTV
