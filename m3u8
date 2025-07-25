@@ -48,7 +48,7 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 
 #EXTINF:-13 tvg-id="RedeMassa.br" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Canais",SBT
-https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
+https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
 
 
 #EXTINF:-14 tvg-id="TVEBahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/512px-TVE_Bahia_logo.svg.png" group-title="Canais",TVE
